@@ -197,25 +197,9 @@ Esta configuración es perfecta para:
 - **Aprendizaje**: Entender cómo funcionan juntos los clientes de Ethereum
 - **Proyectos de Tesis**: Experimentar con aplicaciones de blockchain
 
-## 🤝 Contribuir
-
-1. Hacer fork del repositorio
-2. Crear una rama de características
-3. Realizar tus cambios
-4. Probar con una configuración nueva
-5. Enviar un pull request
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
-
 ## 🔗 Enlaces Útiles
 
 - [Red de Pruebas Ephemery](https://ephemery.dev/)
 - [Documentación de Geth](https://geth.ethereum.org/docs)
 - [Documentación de Nimbus](https://nimbus.guide/)
 - [Ethereum.org](https://ethereum.org/developers/)
-
-## ⚠️ Descargo de Responsabilidad
-
-Esta es una configuración de red de pruebas solo para propósitos de desarrollo y educativos. No usar para aplicaciones de producción ni almacenar valor real.
